@@ -15,7 +15,7 @@ define(['jquery', 'Infrangible_Select2/js/select2'], function ($) {
 
 The styles of Select2 are part of the styles of every theme (`view/base/web/css/source/_module.less`).
 
-For example, [Infrangible Catalog Product Option Select2](https://github.com/infrangible-dev/m2-catalog-product-option-select2)
+For example, [Infrangible Catalog Product Option Select2](https://www.infrangible.dev/modules/catalog-product-option-select2)
 adds custom options of products with Select2.
 
 ## Requirements
